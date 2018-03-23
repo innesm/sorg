@@ -21,7 +21,7 @@ which lets you make your through. Often that discovery is a
 eureka moment -- it felt impossible only hours before.
 
 But eventually you find your way into the clear. The walls
-get smaller and you navigate passed them more easily. At
+get smaller and you navigate past them more easily. At
 some point you might gain so much mechanical dexterity that
 you find yourself in an open field -- you know the language
 and its tooling so well that there's practically nothing
@@ -48,14 +48,14 @@ a working program. I like the syntax and the tooling. I
 don't like how little time I spend solving the problems
 that are interesting to me. I estimate that I spend about
 5% of my time building new domain logic, and 95% of my time
-fighting the compiler over problems that are _appallingly_
+fighting the compiler over problems that are _appalling_
 in how uninteresting they are. Even something as simple as
 abstracting a new helper function often turns into a
 veritable odyssey because getting type annotations right
 can be so difficult (especially where a third party library
 is involved).
 
-These thoughts are intended to be comprehensive, and I'll
+These thoughts are not intended to be comprehensive, and I'll
 write a more substantial defense at some point, but I
 wanted to sketch a few feelings first. I intend to keep
 pushing forward, but if forward progress doesn't get easier
